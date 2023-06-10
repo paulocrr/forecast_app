@@ -1,4 +1,4 @@
-package com.example.forecast_app
+package com.paulorodriguez.forecast
 
 import io.flutter.embedding.android.FlutterActivity
 
